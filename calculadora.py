@@ -6,7 +6,7 @@ while True:
     print('3 - MULTIPLICAÇÃO')
     print('4 - DIVISÃO')
 
-    operacao = int(input('add o valor:'))
+    operacao = int(input('Escolha a operação:'))
 
     num1 = int(input('insira o primeiro valor:'))
     num2 = int(input('insira o segundo valor:'))
